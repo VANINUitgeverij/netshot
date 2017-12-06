@@ -1,4 +1,10 @@
 coverage/
 node_modules/
 
+.idea/
+.sonar/
+*.iml
+*.ipr
+*.iws
+
 .DS_Store
